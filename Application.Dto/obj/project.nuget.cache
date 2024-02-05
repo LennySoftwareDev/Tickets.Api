@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9w6u+P8rMwxVO5jc7OrQi7oi/U7RjHDvjhMguxCt2tQz7ZsJPUoC1KzNmKQW41ji+aeLUZdyQdsggDc1Zi1JYw==",
+  "success": true,
+  "projectFilePath": "C:\\Microservices.Net\\Tickets\\Application.Dto\\Application.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenny\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\lenny\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\lenny\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

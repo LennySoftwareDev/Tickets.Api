@@ -1,0 +1,17 @@
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Persistence.deps.json
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Persistence.runtimeconfig.json
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Persistence.dll
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Persistence.pdb
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Domain.dll
+C:\Microservices.Net\Tickets\Tickets.Persistence\bin\Debug\net6.0\Tickets.Domain.pdb
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.csproj.AssemblyReference.cache
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.AssemblyInfoInputs.cache
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.AssemblyInfo.cs
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.csproj.CoreCompileInputs.cache
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.csproj.CopyComplete
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.dll
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\refint\Tickets.Persistence.dll
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.pdb
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\Tickets.Persistence.genruntimeconfig.cache
+C:\Microservices.Net\Tickets\Tickets.Persistence\obj\Debug\net6.0\ref\Tickets.Persistence.dll

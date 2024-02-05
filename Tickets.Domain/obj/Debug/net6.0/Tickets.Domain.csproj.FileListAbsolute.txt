@@ -1,0 +1,12 @@
+C:\Microservices.Net\Tickets\Tickets.Domain\bin\Debug\net6.0\Tickets.Domain.deps.json
+C:\Microservices.Net\Tickets\Tickets.Domain\bin\Debug\net6.0\Tickets.Domain.dll
+C:\Microservices.Net\Tickets\Tickets.Domain\bin\Debug\net6.0\Tickets.Domain.pdb
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.csproj.AssemblyReference.cache
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.AssemblyInfoInputs.cache
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.AssemblyInfo.cs
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.csproj.CoreCompileInputs.cache
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.dll
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\refint\Tickets.Domain.dll
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\Tickets.Domain.pdb
+C:\Microservices.Net\Tickets\Tickets.Domain\obj\Debug\net6.0\ref\Tickets.Domain.dll

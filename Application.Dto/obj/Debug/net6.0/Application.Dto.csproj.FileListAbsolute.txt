@@ -1,0 +1,12 @@
+C:\Microservices.Net\Tickets\Application.Dto\bin\Debug\net6.0\Application.Dto.deps.json
+C:\Microservices.Net\Tickets\Application.Dto\bin\Debug\net6.0\Application.Dto.dll
+C:\Microservices.Net\Tickets\Application.Dto\bin\Debug\net6.0\Application.Dto.pdb
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.csproj.AssemblyReference.cache
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.AssemblyInfoInputs.cache
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.AssemblyInfo.cs
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.csproj.CoreCompileInputs.cache
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.dll
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\refint\Application.Dto.dll
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\Application.Dto.pdb
+C:\Microservices.Net\Tickets\Application.Dto\obj\Debug\net6.0\ref\Application.Dto.dll
